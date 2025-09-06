@@ -1,0 +1,22 @@
+*{
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.Hoje{
+    color: darkred;
+}
+
+.Amanha{
+    color: darkblue;
+}
+
+a{
+    text-decoration: none;
+}
+h2 a{
+    color: seagreen;
+}
+
+p{
+    font-size: 20px;
+}
